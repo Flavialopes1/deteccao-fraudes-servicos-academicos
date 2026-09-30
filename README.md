@@ -1,6 +1,6 @@
 # Sistema de Deteção de Fraudes nas Notas - Serviços Académicos
 
-## 1. Processo de Engenharia de Requisitos (Modelo em Espiral)
+## 1. Processo de Engenharia de Software II (Modelo em Espiral)
 
 ### A. Obtenção de Requisitos
 - **Resultado:** Requisitos funcionais e não funcionais.
